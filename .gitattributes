@@ -1,1 +1,8 @@
-DataSets/SI_Data_Files/** filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/Lip_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/Solv_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/Tox102_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/Tox134_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/Alpha_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/BACE_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/g298atom_SI.csv filter=lfs diff=lfs merge=lfs -text
+DataSets/SI_Data_Files/LD50_SI.csv filter=lfs diff=lfs merge=lfs -text

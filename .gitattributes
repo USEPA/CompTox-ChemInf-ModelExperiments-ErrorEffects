@@ -54,3 +54,8 @@ Results/g298_atom/PKL/g298_15_5_0p01_gp_witherror.pkl filter=lfs diff=lfs merge=
 Results/g298_atom/PKL/g298_15_5_0p01_knn.pkl filter=lfs diff=lfs merge=lfs -text
 Results/g298_atom/PKL/g298_15_5_0p01_rf.pkl filter=lfs diff=lfs merge=lfs -text
 Results/g298_atom/PKL/g298_15_5_0p01_ridge.pkl filter=lfs diff=lfs merge=lfs -text
+Results/Alpha/PKL/Alpha_15_5_0p01_knn.pkl filter=lfs diff=lfs merge=lfs -text
+Results/Alpha/PKL/Alpha_15_5_0p01_rf.pkl filter=lfs diff=lfs merge=lfs -text
+Results/Alpha/PKL/Alpha_15_5_0p01_svr.pkl filter=lfs diff=lfs merge=lfs -text
+Results/Alpha/PKL/Alpha_15_5_0p01_gp.pkl filter=lfs diff=lfs merge=lfs -text
+Results/Alpha/PKL/Alpha_15_5_0p01_gp_witherror.pkl filter=lfs diff=lfs merge=lfs -text

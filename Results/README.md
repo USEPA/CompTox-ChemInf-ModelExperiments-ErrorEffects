@@ -6,11 +6,10 @@ Running the experiment results in a multitude of statistics and graphics for res
 contains the exemplar results used for the development of the manuscript, but re-running the software will necessarily 
 (due to the random nature of the error insertion) lead to results that are not identical.
 
-Results for the Alpha dataset are included for direct download in the *Alpha* directory, but due to file sizes, results for the remaining datasets
-are provided as .zip files. 
+Results for the all dataset are included for direct download, but due to file sizes; however, due to file size the pkl files are managed under git lfs. 
 
 The files in the Alpha directory were generated on *10/15/20*.
-The files in *Results.zip* were generated between *10/01/20* and *01/31/21*.
+The files in result directories were generated between *10/01/20* and *01/31/21*.
 
 **File Naming Conventions Used**
 
